@@ -1,0 +1,16 @@
+[project]
+name = "justins-llm-enigineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.75.0",
+    "beautifulsoup4>=4.14.3",
+    "dotenv>=0.9.9",
+    "ipython>=9.9.0",
+    "langchain>=1.2.3",
+    "openai>=2.15.0",
+    "requests>=2.32.5",
+    "transformers>=4.57.3",
+]
